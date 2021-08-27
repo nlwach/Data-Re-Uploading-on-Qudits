@@ -1,1 +1,5 @@
-# Data-Re-Uploading-on-Qudits
+# Bachelor thesis "Data-Re-Uploading-on-Qudits"
+This repository includes all necessary jupyter notebooks to recreate the data presented in my bachelor thesis "Data-Re-Uploading-on-Qudits". 
+
+Each folder contains a specific QML model wich was trained under various different conditions on the same dataset.
+I also provide one notebook which illustrates the analysis of the collected data.
